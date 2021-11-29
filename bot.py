@@ -4,8 +4,8 @@ import subprocess  # make the bot open a zoom app
 import time  # to make the bot sleep for some time
 import pyautogui  # make the bot click the butotns or enter things we tell them
 
-meeting_id = " "  # enter your own MettingID
-password = " "  # enter your own Meeting Password
+meeting_id = "88334768973"  # enter your own MettingID
+password = "812520"  # enter your own Meeting Password
 
 print("Opening Zoom Application \n")  # It print the same in the console
 
